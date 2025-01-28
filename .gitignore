@@ -1,0 +1,7 @@
+*.log
+ignore-lab/config.json
+temp/*
+*.css
+!ignore-lab/style.css
+build/*
+!build/readme.md
